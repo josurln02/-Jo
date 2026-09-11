@@ -1,14 +1,14 @@
-                    GNU GENERAL PUBLIC LICENSE
-                       Version 2, June 1991
+สัญญาอนุญาตสาธารณะทั่วไปของกนู
+ฉบับที่ 2 มิถุนายน 1991
 
- Copyright (C) 1989, 1991 Free Software Foundation, Inc.,
- 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
+ลิขสิทธิ์ (C) 1989, 1991 มูลนิธิซอฟต์แวร์เสรี,
+51 ถนนแฟรงคลิน ชั้นห้า บอสตัน, MA 02110-1301 สหรัฐอเมริกา
+ทุกคนได้รับอนุญาตให้คัดลอกและแจกจ่ายสำเนาตามต้นฉบับ
+ของเอกสารใบอนุญาตนี้ แต่ไม่อนุญาตให้เปลี่ยนแปลง
 
-                            Preamble
+คำนำ
 
-  The licenses for most software are designed to take away your
+ใบอนุญาตสำหรับซอฟต์แวร์ส่วนใหญ่ถูกออกแบบมาเพื่อพรากสิทธิ์ของคุณไป
 freedom to share and change it.  By contrast, the GNU General Public
 License is intended to guarantee your freedom to share and change free
 software--to make sure the software is free for all its users.  This
